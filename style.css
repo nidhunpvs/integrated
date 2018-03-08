@@ -575,7 +575,7 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffbc13; text
 #main-nav > ul > li:first-child { padding-left: 0; }
 #main-nav > ul > li > a { display: block; font-family: "Montserrat", sans-serif; font-size: 14px; font-weight: 500; color: #4b4b4b; text-transform: uppercase; }
 #main-nav > ul > li > a:hover,
-#main-nav > ul > li.current-menu-item > a { color: #ffbc13; }
+#main-nav > ul > li.current-menu-item > a { color: #1E90FF; }
 #main-nav > ul > li.menu-item-has-children > a { position: relative; padding-right: 15px; }
 #main-nav > ul > li.menu-item-has-children > a:after { content: "\f107"; font-family: "FontAwesome"; position: absolute; right: 0; top: 0; filter: alpha(opacity=75); opacity: 0.75 }
 
